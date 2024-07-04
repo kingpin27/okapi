@@ -1,3 +1,3 @@
 # okapi
 
-SQL database form scratch(best effort).
+SQL database from scratch(best effort).
